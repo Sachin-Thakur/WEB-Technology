@@ -1,0 +1,11 @@
+ Volume in drive C is OS
+ Volume Serial Number is 56A2-731F
+
+ Directory of C:\Users\Insp 5559 6th Gen I5\Desktop\myproject
+
+04-09-2018  21:11    <DIR>          .
+04-09-2018  21:11    <DIR>          ..
+04-09-2018  21:11                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  209,614,106,624 bytes free
+hgfh
